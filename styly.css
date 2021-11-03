@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    background-image: url('mars.gif');
+}
+.red{
+    margin-bottom: 100px;
+    text-decoration: underline;
+    color: white;
+}
+.green{
+    background: transparent;
+    color: white;
+    border: 0px;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.d{
+    font-family: 'Times New Roman', Times, serif;
+}
+.gre{
+    border: 2px solid white;
+    color: white;
+}
+.dr{
+    background: transparent;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.dr:hover{
+    background: violet;
+}
